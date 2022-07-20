@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-= Yafan Huang (黄亚凡)
+= Shihui Song (宋师慧)
 
 ~~~
 {}{img_left}{image/yafan_huang.jpeg}{alt text}{215px}{220px}
@@ -13,15 +13,15 @@ I was a member of [http://grid.hust.edu.cn/ Cluster and Grid Computing Lab (CGCL
 I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering) at [http://www-en.hnu.edu.cn/ Hunan Unversity], Changsha.
 I spent a happy time there :)
 
-- Email: yafan-huang /at/ uiowa /dot/ edu
+- Email: shihui-song /at/ uiowa /dot/ edu
 - Office: Maclean Hall 317, Iowa City, IA
 - [file/yafan_cv.pdf Curriculem Vitae]
 ~~~
 
 == Research Interests
-- Error Resilience
-- Lossy Compression
-- Natural Language Processing
+- Distributed Training
+- Data Placement
+- Sparse Training
 
 == Latest News ([news.html More])
 - 02/2022: Serve as reviewer of IJCNN'22 and subreviewer of HPDC'22.
