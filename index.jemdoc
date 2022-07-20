@@ -2,28 +2,35 @@
 = Shihui Song (宋师慧)
 
 ~~~
-{}{img_left}{image/yafan_huang.jpeg}{alt text}{215px}{220px}
+{}{img_left}{image/shihui.jpg}{alt text}{196px}{260px}
 I am a PhD student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa].
-I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and advised by [https://homepage.divms.uiowa.edu/~guanpli/ Dr. Guanpeng Li].
-I am also a research intern in [https://www.anl.gov/mcs Argonne National Laboratory] and supervised by [https://www.mcs.anl.gov/~shdi/ Dr. Sheng Di].
+I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and my advisor is [https://homepage.divms.uiowa.edu/~penjiang/ Dr. Peng Jiang].
 
-Before coming to UIowa, I received my Master's degree (Sep.2018-Jun.2021, major: Computer Science) at [http://english.hust.edu.cn/ Huazhong University of Science and Technology], Wuhan.
-I was a member of [http://grid.hust.edu.cn/ Cluster and Grid Computing Lab (CGCL)] and advised by [http://faculty.hust.edu.cn/zhaofeng1/en/index.htm Dr. Feng Zhao].
+Before I joined UIowa, I received my Master's degree (Sep.2018-Jun.2021, major: Cyber Security) at [http://english.hust.edu.cn/ Huazhong University of Science and Technology], Wuhan.
+My advisor is [http://faculty.hust.edu.cn/luhongwei/en/index.htm Dr. Hongwei Lu].
 
-I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering) at [http://www-en.hnu.edu.cn/ Hunan Unversity], Changsha.
-I spent a happy time there :)
+I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering) at [http://global.jlu.edu.cn/ Jilin Unversity], Changchun.
 
 - Email: shihui-song /at/ uiowa /dot/ edu
 - Office: Maclean Hall 317, Iowa City, IA
-- [file/yafan_cv.pdf Curriculem Vitae]
+- [file/shihui_cv.pdf Curriculem Vitae]
 ~~~
 
 == Research Interests
-- Distributed Training
-- Data Placement
+- Data Placement for Distributed Training
 - Sparse Training
 
 == Latest News ([news.html More])
-- 02/2022: Serve as reviewer of IJCNN'22 and subreviewer of HPDC'22.
+- 07/2022: One paper about natural language processing is accepted by SMC’22.
+- 04/2022: One paper about data placement is accepted by ICS’22.
+- 02/2022: Serve as reviewer of IJCNN’22 and SMC’22.
+- 01/2022: Serve as a teaching assistant at computer science department.
 
 == Selected Publications ([publications.html Full List])
+- Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
+*Shihui Song*, Peng Jiang\*\n
+*\[ICS'22\]*: Proceedings of the 2022 International Conference on Supercomputing
+
+- Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
+*Shihui Song*, Yafan Huang, Hongwei Lu\*\n
+*\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
