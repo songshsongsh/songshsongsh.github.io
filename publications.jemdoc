@@ -2,21 +2,23 @@
 = Publications
 
 == Conference
+- Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training\n
+Peng Jiang\*, Lihan Hu, *Shihui Song*\n
+*\[NeurIPS'22\]*: In Proceedings of the 36th Conference on Neural Information Processing Systems
+
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
 *Shihui Song*, Peng Jiang\*\n
-*\[ICS'22\]*: Proceedings of the 2022 International Conference on Supercomputing
+*\[ICS'22\]*: In Proceedings of the 2022 International Conference on Supercomputing
 
+- Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
+*Shihui Song*, Peng Jiang\*\n
+*\[PPoPP'22\]*: In Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (Poster)
+
+== Before PhD
 - Long-tail Music Genre Classification via Hierarchical Music Attention Networks\n
 Xiaokai Liu, *Shihui Song*, and Yafan Huang\*\n
-*\[SMC'22\]*: Proceedings for the 2022 IEEE International Conference on Systems, Man, and Cybernetics
+*\[SMC'22\]*: In Proceedings of the 2022 IEEE International Conference on Systems, Man, and Cybernetics
 
 - Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
 *Shihui Song*, Yafan Huang\*, Hongwei Lu\n
-*\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
-
-== Poster\/Workshop\/Preprint
-- Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
-*Shihui Song*, Peng Jiang\*\n
-*\[PPoPP'22\]*: Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (Poster)
-
-== Journal
+*\[SMC'21\]*: In Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
