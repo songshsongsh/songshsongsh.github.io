@@ -9,10 +9,7 @@ Peng Jiang\*, Lihan Hu, *Shihui Song*\n
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
 *Shihui Song*, Peng Jiang\*\n
 *\[ICS'22\]*: In Proceedings of the 2022 International Conference on Supercomputing
-
-- Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
-*Shihui Song*, Peng Jiang\*\n
-*\[PPoPP'22\]*: In Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (Poster)
+*\[PPoPP'22\]*: Poster in Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
 
 == Before PhD
 - Long-tail Music Genre Classification via Hierarchical Music Attention Networks\n
