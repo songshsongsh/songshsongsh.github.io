@@ -17,10 +17,11 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 ~~~
 
 == Research Interests
-- Data Placement for Distributed Training
+- Data Placement for Training on multiple GPUs
 - Sparse Training
 
 == Latest News ([news.html More])
+- 09/2022: One paper about sparse training is accepted by NeurIPS’22.
 - 07/2022: One paper about natural language processing is accepted by SMC’22.
 - 04/2022: One paper about data placement is accepted by ICS’22.
 - 02/2022: Serve as reviewer of IJCNN’22 and SMC’22.
