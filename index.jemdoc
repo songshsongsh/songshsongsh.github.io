@@ -17,15 +17,12 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 ~~~
 
 == Research Interests
-- Data Placement for Training on multiple GPUs
+- Machine Learning Optimization
 - Sparse Training
+- Lossy Compression
 
 == Latest News ([news.html More])
-- 09/2022: One paper about sparse training is accepted by NeurIPS’22.
-- 07/2022: One paper about natural language processing is accepted by SMC’22.
-- 04/2022: One paper about data placement is accepted by ICS’22.
-- 02/2022: Serve as reviewer of IJCNN’22 and SMC’22.
-- 01/2022: Serve as a teaching assistant at computer science department.
+- 05/2023: Work as a summer intern advised by Dr. Xiaodong Yu and Dr. Sheng Di at Argonne National Laboratory\n
 
 == Selected Publications ([publications.html Full List])
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
@@ -35,3 +32,11 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
 *Shihui Song*, Yafan Huang\*, Hongwei Lu\n
 *\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
+
+{{
+<div class="center" id="member-container">
+    <div id="member">
+        <a href='https://clustrmaps.com/site/1bjkn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=f7c000&w=284&t=t&d=jhde0r9eqi9rr3GM-4w0eBmV3s7ayjluV-on6kfPItg&co=000000&ct=ffffff'/></a>
+    </div>
+</div>
+}}
