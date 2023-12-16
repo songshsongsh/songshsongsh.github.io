@@ -27,11 +27,11 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 
 == Selected Publications ([publications.html Full List])
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
-*Shihui Song*, Peng Jiang\*\n
+*Shihui Song*, Peng Jiang\n
 *\[ICS'22\]*: Proceedings of the 2022 International Conference on Supercomputing
 
 - Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
-*Shihui Song*, Yafan Huang\*, Hongwei Lu\n
+*Shihui Song*, Yafan Huang, Hongwei Lu\n
 *\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 
 {{

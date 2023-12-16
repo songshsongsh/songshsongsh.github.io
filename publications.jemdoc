@@ -3,12 +3,12 @@
 
 == Current Research
 - [https://proceedings.neurips.cc//paper_files/paper/2022/hash/fa69e968b7319fd42524febd41475fb3-Abstract-Conference.html Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
-Peng Jiang\*, Lihan Hu, *Shihui Song*\n
+Peng Jiang, Lihan Hu, *Shihui Song*\n
 *\[NeurIPS'22\]*: In Proceedings of the 36th Conference on Neural Information Processing Systems \n
 \[[publications/NIPS22-Paper.pdf Paper]\] \[[https://github.com/HPC-Research-Lab/shuffled-block-sparse-training Code]\]
 
 - [https://dl.acm.org/doi/10.1145/3524059.3532384 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
-*Shihui Song*, Peng Jiang\*\n
+*Shihui Song*, Peng Jiang\n
 *\[ICS'22\]*: In Proceedings of the 2022 International Conference on Supercomputing\n
 \[[publications/ICS22-Paper.pdf Paper]\] \[[publications/ICS22-Slides.pdf Slides]\] \[[https://www.youtube.com/watch?v=xqgua7Q651E Video]\] \[[https://github.com/HPC-Research-Lab/GNN Code]\]\n
 *\[PPoPP'22\]*: Poster in Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming \n
@@ -17,7 +17,7 @@ Peng Jiang\*, Lihan Hu, *Shihui Song*\n
 == Before PhD
 
 - [https://doi.org/10.1109/SMC52423.2021.9659106 Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks]\n
-*Shihui Song*, Yafan Huang\*, Hongwei Lu\n
+*Shihui Song*, Yafan Huang, Hongwei Lu\n
 *\[SMC'21\]*: In Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics \n
 \[[publications/SMC21-Paper.pdf Paper]\] \[[publications/SMC21-Slides.pdf Slides]\] \[[https://www.youtube.com/watch?v=L5ykHXY8tYM Video]\]
 
