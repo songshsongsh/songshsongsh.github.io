@@ -5,6 +5,7 @@
 {}{img_left}{image/shihui.jpg}{alt text}{196px}{220px}
 I am a PhD student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa].
 I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and my advisor is [https://homepage.divms.uiowa.edu/~penjiang/ Dr. Peng Jiang].
+I am also a research intern in Argonne National Laboratory and supervised by [https://xiaodong-yu.github.io// Dr. Xiaodong Yu] and [https://www.mcs.anl.gov/~shdi// Dr. Sheng Di] .
 
 Before I joined UIowa, I received my Master's degree (Sep.2018-Jun.2021, major: Cyber Security) at [http://english.hust.edu.cn/ Huazhong University of Science and Technology], Wuhan.
 My advisor is [http://faculty.hust.edu.cn/luhongwei/en/index.htm Dr. Hongwei Lu].
@@ -22,7 +23,7 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Lossy Compression
 
 == Latest News ([news.html More])
-- 05/2023: Work as a summer intern advised by [https://xiaodong-yu.github.io// Dr. Xiaodong Yu] and [https://www.mcs.anl.gov/~shdi// Dr. Sheng Di] at Argonne National Laboratory\n
+- 05/2023: Work as a research intern at Argonne National Laboratory\n
 
 == Selected Publications ([publications.html Full List])
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
