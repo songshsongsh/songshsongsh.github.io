@@ -7,15 +7,15 @@
 *\[HPDC'24\]*: The ACM International Symposium on High-Performance Parallel and Distributed Computing, 2024\n
 \[[ Paper]\] \[[ Slides]\] \[[Video]\] \[[Code]\]
 
-- [https://proceedings.neurips.cc//paper_files/paper/2022/hash/fa69e968b7319fd42524febd41475fb3-Abstract-Conference.html Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
-Peng Jiang, Lihan Hu, *Shihui Song*\n
-*\[NeurIPS'22\]*: In Proceedings of the 36th Conference on Neural Information Processing Systems \n
-\[[publications/NIPS22-Paper.pdf Paper]\] \[[https://github.com/HPC-Research-Lab/shuffled-block-sparse-training Code]\]
-
 - [https://dl.acm.org/doi/10.1145/3524059.3532384 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
 *Shihui Song*, Peng Jiang\n
 *\[ICS'22\]*: In Proceedings of the 2022 International Conference on Supercomputing\n
 \[[publications/ICS22-Paper.pdf Paper]\] \[[publications/ICS22-Slides.pdf Slides]\] \[[https://www.youtube.com/watch?v=xqgua7Q651E Video]\] \[[https://github.com/HPC-Research-Lab/GNN Code]\]\n
+
+- [https://proceedings.neurips.cc//paper_files/paper/2022/hash/fa69e968b7319fd42524febd41475fb3-Abstract-Conference.html Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
+Peng Jiang, Lihan Hu, *Shihui Song*\n
+*\[NeurIPS'22\]*: In Proceedings of the 36th Conference on Neural Information Processing Systems \n
+\[[publications/NIPS22-Paper.pdf Paper]\] \[[https://github.com/HPC-Research-Lab/shuffled-block-sparse-training Code]\]
 
 - [https://doi.org/10.1109/SMC52423.2021.9659106 Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks]\n
 *Shihui Song*, Yafan Huang, Hongwei Lu\n
