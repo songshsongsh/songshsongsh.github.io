@@ -22,10 +22,11 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Algorithm Support for Machine Learning
 - Lossy Compression
 
-== Latest News ([news.html More])
-- 05/2023: Work as a research intern at Argonne National Laboratory\n
-
 == Selected Publications ([publications.html Full List])
+- CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2\n
+*Shihui Song*, Yafan Huang, Peng Jiang, Xiaodong Yu, Weijian Zheng, Sheng Di, Qinglei Cao, Yunhe Feng, Zhen Xie, and Franck Cappello\n
+*\[HPDC'24\]*: The ACM International Symposium on High-Performance Parallel and Distributed Computing, 2024
+
 - Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs\n
 *Shihui Song*, Peng Jiang\n
 *\[ICS'22\]*: Proceedings of the 2022 International Conference on Supercomputing
@@ -33,11 +34,3 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
 *Shihui Song*, Yafan Huang, Hongwei Lu\n
 *\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
-
-{{
-<div class="center" id="member-container">
-    <div id="member">
-    <a href="https://clustrmaps.com/site/1bvg2"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=jpFmUCMc-8JwK_tPI7UcqUmc3kB-8G9tljFBryp3q5c&cl=ffffff" /></a>    </div>
-</div>
-}}
-
