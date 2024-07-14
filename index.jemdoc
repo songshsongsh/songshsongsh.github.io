@@ -18,9 +18,9 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 ~~~
 
 == Research Interests
-- HPC Support for Machine Learning
-- Algorithm Support for Machine Learning
+- Distributed Systems
 - Lossy Compression
+- Dataflow Architecture
 
 == Selected Publications ([publications.html Full List])
 - CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2\n
