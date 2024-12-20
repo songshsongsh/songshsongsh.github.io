@@ -2,10 +2,15 @@
 = Publications
 
 == Conference Papers
+- [ A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine]\n
+*Shihui Song*, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, and Franck Cappello\n
+*\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025\n
+\[[Paper]\] \[[ Slides]\]
+
 - [ CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2]\n
 *Shihui Song*, Yafan Huang, Peng Jiang, Xiaodong Yu, Weijian Zheng, Sheng Di, Qinglei Cao, Yunhe Feng, Zhen Xie, and Franck Cappello\n
 *\[HPDC'24\]*: The ACM International Symposium on High-Performance Parallel and Distributed Computing, 2024\n
-\[[ Paper]\] \[[ Slides]\] \[[Video]\] \[[Code]\]
+\[[publications/HPDC24-Paper.pdf Paper]\] \[[publications/HPDC24-Slides.pdf Slides]\]
 
 - [https://dl.acm.org/doi/10.1145/3524059.3532384 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
 *Shihui Song*, Peng Jiang\n

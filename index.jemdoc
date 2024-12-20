@@ -5,7 +5,7 @@
 {}{img_left}{image/shihui.jpg}{alt text}{196px}{220px}
 I am a PhD student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa].
 I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and my advisor is [https://homepage.divms.uiowa.edu/~penjiang/ Dr. Peng Jiang].
-I am also a research intern in Argonne National Laboratory and supervised by [https://xiaodong-yu.github.io// Dr. Xiaodong Yu] and [https://www.mcs.anl.gov/~shdi// Dr. Sheng Di] .
+I am also a research intern in Argonne National Laboratory and work closely with [https://www.mcs.anl.gov/~shdi// Dr. Sheng Di], [https://robertu94.github.io// Dr. Robert Underwood], and [https://xiaodong-yu.github.io// Dr. Xiaodong Yu].
 
 Before I joined UIowa, I received my Master's degree (Sep.2018-Jun.2021, major: Cyber Security) at [http://english.hust.edu.cn/ Huazhong University of Science and Technology], Wuhan.
 My advisor is [http://faculty.hust.edu.cn/luhongwei/en/index.htm Dr. Hongwei Lu].
@@ -23,6 +23,10 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Dataflow Architecture
 
 == Selected Publications ([publications.html Full List])
+- A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine\n
+*Shihui Song*, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, and Franck Cappello\n
+*\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025
+
 - CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2\n
 *Shihui Song*, Yafan Huang, Peng Jiang, Xiaodong Yu, Weijian Zheng, Sheng Di, Qinglei Cao, Yunhe Feng, Zhen Xie, and Franck Cappello\n
 *\[HPDC'24\]*: The ACM International Symposium on High-Performance Parallel and Distributed Computing, 2024
@@ -33,4 +37,4 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 
 - Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks\n
 *Shihui Song*, Yafan Huang, Hongwei Lu\n
-*\[SMC'21\]*: Proceedings for the 2021 IEEE International Conference on Systems, Man, and Cybernetics
+*\[SMC'21\]*: Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
