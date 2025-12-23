@@ -23,6 +23,10 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Software Engineering)
 - Dataflow Architecture
 
 == Selected Publications ([publications.html Full List])
+- Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine\n
+*Shihui Song*, Robert Underwood, Sheng Di, Peng Jiang, and Franck Cappello\n
+*\[IPDPS'26\]*: IEEE International Parallel and Distributed Processing Symposium, 2026
+
 - A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine\n
 *Shihui Song*, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, and Franck Cappello\n
 *\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025

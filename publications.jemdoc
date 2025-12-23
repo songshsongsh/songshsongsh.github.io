@@ -2,33 +2,40 @@
 = Publications
 
 == Conference Papers
-- [ A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine]\n
+- [ Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine]\n
+*Shihui Song*, Robert Underwood, Sheng Di, Peng Jiang, and Franck Cappello\n
+*\[IPDPS'26\]*: IEEE International Parallel and Distributed Processing Symposium, 2026
+
+- [https://dl.acm.org/doi/10.1145/3712285.3759856 What to Support When You are Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression]\n
+Franck Cappello et al.\n
+*\[SC'25\]* International Conference for High Performance Computing, Networking, Storage and Analysis\n
+
+- [https://ieeexplore.ieee.org/document/11078509 A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine]\n
 *Shihui Song*, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, and Franck Cappello\n
 *\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025\n
-\[[Paper]\] \[[ Slides]\]
 
-- [ CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2]\n
+- [https://dl.acm.org/doi/10.1145/3625549.3658691 CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2]\n
 *Shihui Song*, Yafan Huang, Peng Jiang, Xiaodong Yu, Weijian Zheng, Sheng Di, Qinglei Cao, Yunhe Feng, Zhen Xie, and Franck Cappello\n
 *\[HPDC'24\]*: The ACM International Symposium on High-Performance Parallel and Distributed Computing, 2024\n
-\[[publications/HPDC24-Paper.pdf Paper]\] \[[publications/HPDC24-Slides.pdf Slides]\]
 
 - [https://dl.acm.org/doi/10.1145/3524059.3532384 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
 *Shihui Song*, Peng Jiang\n
 *\[ICS'22\]*: In Proceedings of the 2022 International Conference on Supercomputing\n
-\[[publications/ICS22-Paper.pdf Paper]\] \[[publications/ICS22-Slides.pdf Slides]\] \[[https://www.youtube.com/watch?v=xqgua7Q651E Video]\] \[[https://github.com/HPC-Research-Lab/GNN Code]\]\n
 
-- [https://proceedings.neurips.cc//paper_files/paper/2022/hash/fa69e968b7319fd42524febd41475fb3-Abstract-Conference.html Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
+- [https://dl.acm.org/doi/10.5555/3600270.3603048 Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
 Peng Jiang, Lihan Hu, *Shihui Song*\n
 *\[NeurIPS'22\]*: In Proceedings of the 36th Conference on Neural Information Processing Systems \n
-\[[publications/NIPS22-Paper.pdf Paper]\] \[[https://github.com/HPC-Research-Lab/shuffled-block-sparse-training Code]\]
 
 - [https://doi.org/10.1109/SMC52423.2021.9659106 Rumor Detection on Social Media with Out-In-Degree Graph Convolutional Networks]\n
 *Shihui Song*, Yafan Huang, Hongwei Lu\n
 *\[SMC'21\]*: In Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics \n
-\[[publications/SMC21-Paper.pdf Paper]\] \[[publications/SMC21-Slides.pdf Slides]\] \[[https://www.youtube.com/watch?v=L5ykHXY8tYM Video]\]
+
+== Journal Papers
+- [https://dl.acm.org/doi/10.1145/3733104 A Survey on Error-bounded Lossy Compression for Scientific Datasets]\n
+Sheng Di et al.\n
+*\[CSUR'25\]* ACM computing surveys \n
 
 == Workshop and Poster Papers
-- [https://dl.acm.org/doi/pdf/10.1145/3503221.3508435 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
+- [https://dl.acm.org/doi/10.1145/3503221.3508435 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs]\n
 *Shihui Song*, Peng Jiang\n
 *\[PPoPP'22\]*: Poster in Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming \n
-\[[publications/PPoPP22-Paper.pdf Paper]\] \[[publications/PPoPP22-Slides.pdf Poster]\] \[[https://www.youtube.com/watch?v=vJzmk9P1gqs Video]\] \[[https://github.com/HPC-Research-Lab/GNN Code]\]
